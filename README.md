@@ -73,4 +73,34 @@ Dashboard Integration – Combined all visuals into a single, user-friendly HR a
 Insights & Validation – Analyzed trends, validated results, and optimized visuals for decision-making.
 
 **Dashboard**
-<a href="
+<a href="https://github.com/Chinmay-2716/HR-analytics-dashboard/blob/main/Screenshot%202026-01-13%20130246.png">Dashboard</a>
+<img width="1394" height="786" alt="Screenshot 2026-01-13 130246" src="https://github.com/user-attachments/assets/2e531797-3bbc-463f-80de-a56e7acdf8f5" />
+
+📈 **Project Insights**
+
+The overall attrition rate is 16.1%, indicating a significant opportunity for improving employee retention.
+
+Employees aged 26–35 show the highest attrition, highlighting early-to-mid career turnover as a key concern.
+
+Lower salary bands (up to 5K) experience the maximum attrition, suggesting compensation as a major factor.
+
+Laboratory Technicians and Sales Executives have the highest role-based attrition, pointing to role-specific challenges.
+
+Employees with less experience (0–2 years) are more likely to leave, emphasizing the need for stronger onboarding and engagement strategies.
+
+Life Sciences and Medical backgrounds contribute the most to attrition, indicating domain-specific retention issues.
+
+Male employees show higher attrition compared to female employees.
+
+✅**Final Completion**
+
+Successfully designed and deployed an interactive HR Analytics Dashboard with key KPIs and drill-down capabilities.
+
+Delivered a single-view executive dashboard enabling quick identification of attrition drivers.
+
+Ensured accurate insights through proper data cleaning, modeling, and KPI validation.
+
+Created a portfolio-ready project suitable for HR analytics, business analysis, and data analyst roles.
+
+The dashboard effectively supports data-driven HR decisions to improve workforce planning and employee retention strategies.
+
